@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import Peer, { MediaConnection, DataConnection } from "peerjs";
 
 export default function App() {
